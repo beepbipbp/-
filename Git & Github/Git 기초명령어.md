@@ -24,5 +24,5 @@ git remote add origin repositoryaddress1 // repository와 local 폴더를 연결
 git push origin main(branch) // github repository main(branch)에 현재 커밋들을 넣는다
 git clone repositoryaddress1 // github repository에서 모든 커밋들을 내 local 폴더로 가져온다
 git pull origin main(branch) // 서버에서 변경사항이 일어난 것을 local로 동기화한다
-git remote rm origin // remote origin 
+git remote rm origin // remote origin 삭제
 ```
