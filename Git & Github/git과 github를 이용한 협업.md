@@ -56,4 +56,4 @@ git push origin branch1
 ```
 
 ## 8.Pull Request
-충돌 문제를 해결한 후 원본 Repository에 병합이 가능한 상태에서 Pull request를 
+충돌 문제를 해결한 후 원본 Repository에 병합이 가능한 상태에서 Pull request를 진행한다.
